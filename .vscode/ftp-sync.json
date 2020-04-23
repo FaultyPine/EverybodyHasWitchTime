@@ -1,0 +1,25 @@
+{
+    "remotePath": "./SaltySD/plugins/01006A800016E000/",
+    "host": "192.168.1.84",
+    "username": "username",
+    "password": "password",
+    "port": 5000,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
