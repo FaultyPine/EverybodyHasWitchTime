@@ -5,7 +5,7 @@
 mod acmd;
 mod custom;
 
-#[skyline::main(name = "acmd_test")]
+#[skyline::main(name = "EveryoneHasWitchTime")]
 pub fn main() {
     acmd::install();
     custom::install();
